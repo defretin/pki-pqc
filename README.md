@@ -25,6 +25,7 @@ Comprendre et construire une PKI from scratch, avec une évolution vers le post-
 ```bash
 cargo build
 cargo test
+```
 
 ---
 
